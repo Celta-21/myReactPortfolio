@@ -18,7 +18,7 @@ function Projects() {
         <div className="col-md-4">
           <div className="card shadow-sm border-0 h-100">
             <img
-              src="/images/cake.jpg"
+              src="./images/cake.jpg"
               className="card-img-top"
               alt="Bake & Bloom Bakery Website"
               style={{ minWidth: "200px", minHeight: "250px" }}
@@ -42,7 +42,7 @@ function Projects() {
         <div className="col-md-4">
           <div className="card shadow-sm border-0 h-100">
             <img
-              src="/images/cars.jpg"
+              src="./images/cars.jpg"
               className="card-img-top"
               alt="Car buy/sell website"
               style={{ minWidth: "200px", minHeight: "250px" }}
@@ -66,7 +66,7 @@ function Projects() {
         <div className="col-md-4">
           <div className="card shadow-sm border-0 h-100">
             <img
-              src="/images/mentalCare.jpg"
+              src="./images/mentalCare.jpg"
               className="card-img-top"
               alt="Mental Care App"
               style={{ minWidth: "200px", maxHeight: "250px" }}
@@ -90,7 +90,7 @@ function Projects() {
         <div className="col-md-4">
           <div className="card shadow-sm border-0 h-100">
             <img
-              src="/images/skill.jpg"
+              src="./images/skill.jpg"
               className="card-img-top"
               alt="Portfolio Website"
             />
@@ -113,7 +113,7 @@ function Projects() {
         <div className="col-md-4">
           <div className="card shadow-sm border-0 h-100">
             <img
-              src="/images/ecommerce.jpg"
+              src="./images/ecommerce.jpg"
               className="card-img-top"
               alt="E-Commerce Dashboard"
             />
@@ -136,7 +136,7 @@ function Projects() {
         <div className="col-md-4">
           <div className="card shadow-sm border-0 h-100">
             <img
-              src="/images/weather.jpg"
+              src="./images/weather.jpg"
               className="card-img-top"
               alt="Weather Forecast Web App"
             />

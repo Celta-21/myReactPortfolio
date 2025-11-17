@@ -27,7 +27,7 @@ function Skills() {
           </div>
           <div className="col-md-6 text-center">
             <img
-              src="/images/skills.jpg"
+              src="./images/skills.jpg"
               alt="Skills"
               className="img-fluid rounded"
               style={{ maxHeight: "300px" }}
