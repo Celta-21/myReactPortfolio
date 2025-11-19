@@ -32,7 +32,7 @@ function About() {
         {/* Right Column: Image */}
         <div className="col-md-6" style={{ minHeight: "600px" }}>
           <img
-            src="images/20230511_170853.jpg"
+            src="/images/20230511_170853.jpg"
             alt="Cynthia Taula"
             style={{ width: "100%", height: "100%", objectFit: "cover" }}
           />
@@ -97,7 +97,7 @@ function About() {
               style={{ height: "400px", transition: "transform 0.3s" }}
             >
               <img
-                src="images/network.jpg"
+                src="/images/network.jpg"
                 className="card-img-top"
                 alt="Services"
                 style={{ height: "360px", objectFit: "cover" }}
@@ -123,7 +123,7 @@ function About() {
               style={{ height: "400px", transition: "transform 0.3s" }}
             >
               <img
-                src="images/contact.jpg"
+                src="/images/contact.jpg"
                 className="card-img-top"
                 alt="Contact Me"
                 style={{ height: "360px", objectFit: "cover" }}
@@ -149,7 +149,7 @@ function About() {
               style={{ height: "400px", transition: "transform 0.3s" }}
             >
               <img
-                src="images/projects.jpg"
+                src="/images/projects.jpg"
                 className="card-img-top"
                 alt="Projects"
                 style={{ height: "360px", objectFit: "cover" }}
@@ -175,7 +175,7 @@ function About() {
               style={{ height: "400px", transition: "transform 0.3s" }}
             >
               <img
-                src="images/skills.jpg"
+                src="/images/skills.jpg"
                 className="card-img-top"
                 alt="Skills"
                 style={{ height: "360px", objectFit: "cover" }}
