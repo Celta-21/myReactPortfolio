@@ -40,7 +40,7 @@ function Index() {
           <div className="spotlight-img-container position-relative">
             <div className="spotlight-bg"></div>
             <img
-              src="./images/20230511_170853.jpg"
+              src="images/20230511_170853.jpg"
               alt="Cynthia Portrait"
               className="img-fluid spotlight-img"
             />
